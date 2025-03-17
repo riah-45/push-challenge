@@ -1,1 +1,3 @@
 This is the challenge provided by linkedin.
+The code has to be setup in the right repo before
+you adding to GitHub.
